@@ -1,2 +1,2 @@
 # BlogSite
-A blogging site made with MERN stack
+A blogging site made with Mongo Db Express React and Node.js stack
